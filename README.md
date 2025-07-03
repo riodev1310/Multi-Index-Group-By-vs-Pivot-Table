@@ -1,5 +1,3 @@
-# Multi-Index-Group-By-vs-Pivot-Table
-
 # So sánh Multi-index Group By và Pivot Table trong Pandas
 
 | **Tiêu chí**                | **Multi-index Group By**                                                                 | **Pivot Table**                                                                      |
